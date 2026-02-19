@@ -1,0 +1,19 @@
+# Ignore build artifacts (exe, spec, etc.)
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# Ignore Virtual Environments
+venv/
+env/
+
+# Ignore Evidence & Reports (Privacy!)
+*.xlsx
+*.csv
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
